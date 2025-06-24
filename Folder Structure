@@ -1,0 +1,9 @@
+aqi_predictor/
+├── data/aqi_data.csv                  # Dataset (e.g., CPCB, Kaggle)
+├── train_model.py                     # Model training
+├── predict.py                         # CLI prediction
+├── app.py                             # Streamlit interface
+├── model.pkl                          # Trained model
+├── requirements.txt
+├── README.md
+└── .gitignore
